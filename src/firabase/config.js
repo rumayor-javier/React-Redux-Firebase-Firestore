@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore/lite";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_API_KEY,
+    apiKey: "AIzaSyAlgeAL8lWUNQsklYKPkUueat6zzO1NOEk",
     authDomain: "react-redux-f1db7.firebaseapp.com",
     projectId: "react-redux-f1db7",
     storageBucket: "react-redux-f1db7.appspot.com",
