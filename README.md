@@ -1,6 +1,6 @@
 # React-Redux-Firebase-Firestore
 
-React with Redux and Auth and DB on Firebase/Firestore and image on Cloudinary
+React with Redux, Auth and DB on Firebase/Firestore and image on Cloudinary
 
 deployed on:
 ```
